@@ -1,3 +1,3 @@
-# Backend Calendar app
+# Backend MERN - Calendar app
 
-## Backend de la aplicación de calendario del curso de Fernando Herrera
+Backend de la aplicación de calendario del curso de React Fernando Herrera.

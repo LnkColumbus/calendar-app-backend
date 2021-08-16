@@ -79,7 +79,7 @@ const userLogin = async(req, res = response) => {
         res.json({
             ok: true,
             uid: user.id,
-            email: user.name,
+            name: user.name,
             token
         });
         
